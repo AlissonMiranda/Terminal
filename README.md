@@ -1,6 +1,5 @@
 Welcome\! This repository contains the source code for:
-
-  - Windows Terminal
+DET - Windows Terminal
   - The Windows console host (`conhost.exe`)
   - Components shared between the two projects
   - [ColorTool](https://github.com/Microsoft/Terminal/tree/master/src/tools/ColorTool)
